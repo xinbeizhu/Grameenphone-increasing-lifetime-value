@@ -1,1 +1,2 @@
 # Grameenphone-increasing-lifetime-value
+Grameenphone, a leading telecom service provider in Bangladesh, has not chosen the most suitable service plan for users and is concerned about profit leakage. Our team will use machine learning and other statistical methods to train the data from customers and develop a model. This model would select the most applicable marketing and service methods for users, and consequently prolong customers’ life cycles, improve profits, and reduce revenue leaks.
